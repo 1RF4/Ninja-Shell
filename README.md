@@ -1,2 +1,2 @@
 # Ninja Shell 
-# Simple PhP Backdoor.
+# Simple php Backdoor.
